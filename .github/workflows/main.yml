@@ -6,5 +6,5 @@ on:
         demo:
         runs-on: ubuntu-latest
         steps:
-          -name: Greetings
+          - name: Greetings
            run: echo "Hello"
